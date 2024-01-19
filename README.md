@@ -31,9 +31,10 @@ Tool should be easily used by the general public
 
 
 ## Submission
-Choose one of the following:
+Choose **one** of the following:
 * REST API
 * Frontend Application
+* AI & Machine Learning
 
 Push your code here, send a link if you deployed the application.
 
